@@ -13,6 +13,8 @@ npm run desktop
 
 Dependencies download during installation/building. The packaged app needs no account, web server or internet connection.
 
+macOS builds are provided separately for Apple Silicon (`arm64`) and Intel (`x64`), as DMG installers and ZIP app bundles. Linux builds provide AppImage and Debian/Ubuntu `.deb` packages for `x64` and `arm64`. See [downloads, installation and platform builds](docs/builds.md). The Mac packages are ad-hoc signed and are not Apple-notarized; Linux keyboard access may need the [device permissions setup](docs/linux-permissions.md).
+
 ## Device connection
 
 - The app discovers available VIA/Vial raw HID devices and the supported NIZ and M-ONE interfaces, and lists connected boards by name. Use the keyboard selector to switch between multiple boards. **Add keyboard** opens the USB keyboard or ZMK Studio connection picker when needed.
@@ -113,7 +115,7 @@ npm run test:desktop
 npm run dist
 ```
 
-Build macOS releases on macOS and Linux releases on Linux. CI includes all three host platforms. Windows packaging, desktop launch, device switching, keymap reads and macro reads have been locally validated, including physical SP-111 V2, Pikatea Macropad GB3 and ISOlation boards. Firmware-write tests use simulated devices; the hardware checks did not change mappings or macros. macOS/Linux hardware validation remains necessary.
+Build macOS releases on macOS and Linux releases on Linux. CI builds Windows x64, macOS Intel/Apple Silicon and Linux x64/ARM64 on matching hosts. Each job runs unit/browser tests, packages without publishing, launches the packaged app to check its offline catalog and renderer, and uploads installers with SHA-256 checksums. Windows packaging, desktop launch, device switching, keymap reads and macro reads have been locally validated, including physical SP-111 V2, Pikatea Macropad GB3 and ISOlation boards. Firmware-write tests use simulated devices; the automated hardware checks did not change mappings or macros. macOS/Linux hardware validation remains necessary.
 
 The bundled VIA catalog is GPL-3.0 data from [the-via/keyboards](https://github.com/the-via/keyboards), snapshot `9e3e9f4aa9f50f9439fdebc747560f51aaf109a0`. Its license and source information are included under `public/data/` and in the packaged app. To regenerate, extract that source snapshot into `build/via-source/keyboards-<commit>` and run `node scripts/bundle-definitions.mjs`. Application code remains under the root MIT license. Protocol references: [QMK VIA](https://github.com/qmk/qmk_firmware/blob/master/quantum/via.h), [VIA reader](https://github.com/the-via/reader), [Vial](https://github.com/vial-kb/vial-qmk) and [ZMK Studio](https://zmk.dev/docs/features/studio).
 

@@ -4,6 +4,7 @@
   "private": true,
   "description": "Offline keyboard workbench for VIA, Vial and ZMK Studio",
   "author": "Keystone contributors",
+  "homepage": "https://github.com/Unfounded4794/Keyboard-Remapper",
   "license": "MIT",
   "type": "module",
   "main": "electron/main.cjs",
@@ -15,7 +16,10 @@
     "test": "vitest run",
     "test:ui": "playwright test",
     "pack": "npm run build && electron-builder --dir",
-    "dist": "npm run build && electron-builder",
+    "dist": "npm run build && electron-builder --publish never",
+    "dist:linux": "npm run dist -- --linux --x64 --arm64",
+    "dist:mac": "npm run dist -- --mac --x64 --arm64",
+    "test:packaged": "node scripts/verify-packaged.mjs",
     "test:desktop": "node scripts/smoke-desktop.mjs"
   },
   "dependencies": {
@@ -62,8 +66,12 @@
     },
     "mac": {
       "target": [
-        "dmg"
+        "dmg",
+        "zip"
       ],
+      "artifactName": "${productName}-${version}-mac-${arch}.${ext}",
+      "identity": "-",
+      "notarize": false,
       "category": "public.app-category.utilities",
       "icon": "build/icon.png"
     },
@@ -73,6 +81,8 @@
         "deb"
       ],
       "category": "Utility",
+      "maintainer": "Keystone contributors <Unfounded4794@users.noreply.github.com>",
+      "artifactName": "${productName}-${version}-linux-${arch}.${ext}",
       "icon": "build/icon.png"
     },
     "nsis": {
