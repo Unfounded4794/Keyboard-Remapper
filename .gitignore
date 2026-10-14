@@ -1,0 +1,16 @@
+node_modules/
+dist/
+release/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.npm-cache/
+build/via-source/
+build/via-keyboards.zip
+build/qmk-keycodes.h
+build/vial-keycodes-v*.py
+build/via-kle-parser.ts
+build/vendor-sources/
+build/connected-inspection.json
+build/niz-research/
+build/mone-research/

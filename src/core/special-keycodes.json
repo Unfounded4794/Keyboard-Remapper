@@ -1,0 +1,1106 @@
+[
+  {
+    "value": 104,
+    "name": "KC_F13",
+    "label": "F13",
+    "category": "Special",
+    "legacy": 104,
+    "stable": 104
+  },
+  {
+    "value": 105,
+    "name": "KC_F14",
+    "label": "F14",
+    "category": "Special",
+    "legacy": 105,
+    "stable": 105
+  },
+  {
+    "value": 106,
+    "name": "KC_F15",
+    "label": "F15",
+    "category": "Special",
+    "legacy": 106,
+    "stable": 106
+  },
+  {
+    "value": 107,
+    "name": "KC_F16",
+    "label": "F16",
+    "category": "Special",
+    "legacy": 107,
+    "stable": 107
+  },
+  {
+    "value": 108,
+    "name": "KC_F17",
+    "label": "F17",
+    "category": "Special",
+    "legacy": 108,
+    "stable": 108
+  },
+  {
+    "value": 109,
+    "name": "KC_F18",
+    "label": "F18",
+    "category": "Special",
+    "legacy": 109,
+    "stable": 109
+  },
+  {
+    "value": 110,
+    "name": "KC_F19",
+    "label": "F19",
+    "category": "Special",
+    "legacy": 110,
+    "stable": 110
+  },
+  {
+    "value": 111,
+    "name": "KC_F20",
+    "label": "F20",
+    "category": "Special",
+    "legacy": 111,
+    "stable": 111
+  },
+  {
+    "value": 112,
+    "name": "KC_F21",
+    "label": "F21",
+    "category": "Special",
+    "legacy": 112,
+    "stable": 112
+  },
+  {
+    "value": 113,
+    "name": "KC_F22",
+    "label": "F22",
+    "category": "Special",
+    "legacy": 113,
+    "stable": 113
+  },
+  {
+    "value": 114,
+    "name": "KC_F23",
+    "label": "F23",
+    "category": "Special",
+    "legacy": 114,
+    "stable": 114
+  },
+  {
+    "value": 115,
+    "name": "KC_F24",
+    "label": "F24",
+    "category": "Special",
+    "legacy": 115,
+    "stable": 115
+  },
+  {
+    "value": 116,
+    "name": "KC_EXECUTE",
+    "label": "Execute",
+    "category": "Special",
+    "legacy": 116,
+    "stable": 116
+  },
+  {
+    "value": 117,
+    "name": "KC_HELP",
+    "label": "Help",
+    "category": "Special",
+    "legacy": 117,
+    "stable": 117
+  },
+  {
+    "value": 118,
+    "name": "KC_MENU",
+    "label": "Menu",
+    "category": "Special",
+    "legacy": 118,
+    "stable": 118
+  },
+  {
+    "value": 119,
+    "name": "KC_SELECT",
+    "label": "Select",
+    "category": "Special",
+    "legacy": 119,
+    "stable": 119
+  },
+  {
+    "value": 120,
+    "name": "KC_STOP",
+    "label": "Stop",
+    "category": "Special",
+    "legacy": 120,
+    "stable": 120
+  },
+  {
+    "value": 121,
+    "name": "KC_AGAIN",
+    "label": "Again",
+    "category": "Special",
+    "legacy": 121,
+    "stable": 121
+  },
+  {
+    "value": 122,
+    "name": "KC_UNDO",
+    "label": "Undo",
+    "category": "Special",
+    "legacy": 122,
+    "stable": 122
+  },
+  {
+    "value": 123,
+    "name": "KC_CUT",
+    "label": "Cut",
+    "category": "Special",
+    "legacy": 123,
+    "stable": 123
+  },
+  {
+    "value": 124,
+    "name": "KC_COPY",
+    "label": "Copy",
+    "category": "Special",
+    "legacy": 124,
+    "stable": 124
+  },
+  {
+    "value": 125,
+    "name": "KC_PASTE",
+    "label": "Paste",
+    "category": "Special",
+    "legacy": 125,
+    "stable": 125
+  },
+  {
+    "value": 126,
+    "name": "KC_FIND",
+    "label": "Find",
+    "category": "Special",
+    "legacy": 126,
+    "stable": 126
+  },
+  {
+    "value": 130,
+    "name": "KC_LOCKING_CAPS_LOCK",
+    "label": "Locking Caps Lock",
+    "category": "Special",
+    "legacy": 130,
+    "stable": 130
+  },
+  {
+    "value": 131,
+    "name": "KC_LOCKING_NUM_LOCK",
+    "label": "Locking Num Lock",
+    "category": "Special",
+    "legacy": 131,
+    "stable": 131
+  },
+  {
+    "value": 132,
+    "name": "KC_LOCKING_SCROLL_LOCK",
+    "label": "Locking Scroll Lock",
+    "category": "Special",
+    "legacy": 132,
+    "stable": 132
+  },
+  {
+    "value": 135,
+    "name": "KC_INTERNATIONAL_1",
+    "label": "Intl 1",
+    "category": "Special",
+    "legacy": 135,
+    "stable": 135
+  },
+  {
+    "value": 136,
+    "name": "KC_INTERNATIONAL_2",
+    "label": "Intl 2",
+    "category": "Special",
+    "legacy": 136,
+    "stable": 136
+  },
+  {
+    "value": 137,
+    "name": "KC_INTERNATIONAL_3",
+    "label": "Intl 3",
+    "category": "Special",
+    "legacy": 137,
+    "stable": 137
+  },
+  {
+    "value": 138,
+    "name": "KC_INTERNATIONAL_4",
+    "label": "Intl 4",
+    "category": "Special",
+    "legacy": 138,
+    "stable": 138
+  },
+  {
+    "value": 139,
+    "name": "KC_INTERNATIONAL_5",
+    "label": "Intl 5",
+    "category": "Special",
+    "legacy": 139,
+    "stable": 139
+  },
+  {
+    "value": 140,
+    "name": "KC_INTERNATIONAL_6",
+    "label": "Intl 6",
+    "category": "Special",
+    "legacy": 140,
+    "stable": 140
+  },
+  {
+    "value": 141,
+    "name": "KC_INTERNATIONAL_7",
+    "label": "Intl 7",
+    "category": "Special",
+    "legacy": 141,
+    "stable": 141
+  },
+  {
+    "value": 142,
+    "name": "KC_INTERNATIONAL_8",
+    "label": "Intl 8",
+    "category": "Special",
+    "legacy": 142,
+    "stable": 142
+  },
+  {
+    "value": 143,
+    "name": "KC_INTERNATIONAL_9",
+    "label": "Intl 9",
+    "category": "Special",
+    "legacy": 143,
+    "stable": 143
+  },
+  {
+    "value": 144,
+    "name": "KC_LANGUAGE_1",
+    "label": "Lang 1",
+    "category": "Special",
+    "legacy": 144,
+    "stable": 144
+  },
+  {
+    "value": 145,
+    "name": "KC_LANGUAGE_2",
+    "label": "Lang 2",
+    "category": "Special",
+    "legacy": 145,
+    "stable": 145
+  },
+  {
+    "value": 146,
+    "name": "KC_LANGUAGE_3",
+    "label": "Lang 3",
+    "category": "Special",
+    "legacy": 146,
+    "stable": 146
+  },
+  {
+    "value": 147,
+    "name": "KC_LANGUAGE_4",
+    "label": "Lang 4",
+    "category": "Special",
+    "legacy": 147,
+    "stable": 147
+  },
+  {
+    "value": 148,
+    "name": "KC_LANGUAGE_5",
+    "label": "Lang 5",
+    "category": "Special",
+    "legacy": 148,
+    "stable": 148
+  },
+  {
+    "value": 149,
+    "name": "KC_LANGUAGE_6",
+    "label": "Lang 6",
+    "category": "Special",
+    "legacy": 149,
+    "stable": 149
+  },
+  {
+    "value": 150,
+    "name": "KC_LANGUAGE_7",
+    "label": "Lang 7",
+    "category": "Special",
+    "legacy": 150,
+    "stable": 150
+  },
+  {
+    "value": 151,
+    "name": "KC_LANGUAGE_8",
+    "label": "Lang 8",
+    "category": "Special",
+    "legacy": 151,
+    "stable": 151
+  },
+  {
+    "value": 152,
+    "name": "KC_LANGUAGE_9",
+    "label": "Lang 9",
+    "category": "Special",
+    "legacy": 152,
+    "stable": 152
+  },
+  {
+    "value": 153,
+    "name": "KC_ALTERNATE_ERASE",
+    "label": "Alternate Erase",
+    "category": "Special",
+    "legacy": 153,
+    "stable": 153
+  },
+  {
+    "value": 165,
+    "name": "KC_SYSTEM_POWER",
+    "label": "Power",
+    "category": "Special",
+    "legacy": 165,
+    "stable": 165
+  },
+  {
+    "value": 166,
+    "name": "KC_SYSTEM_SLEEP",
+    "label": "Sleep",
+    "category": "Special",
+    "legacy": 166,
+    "stable": 166
+  },
+  {
+    "value": 167,
+    "name": "KC_SYSTEM_WAKE",
+    "label": "Wake",
+    "category": "Special",
+    "legacy": 167,
+    "stable": 167
+  },
+  {
+    "value": 177,
+    "name": "KC_MAIL",
+    "label": "Mail",
+    "category": "Special",
+    "legacy": 177,
+    "stable": 177
+  },
+  {
+    "value": 178,
+    "name": "KC_CALCULATOR",
+    "label": "Calculator",
+    "category": "Special",
+    "legacy": 178,
+    "stable": 178
+  },
+  {
+    "value": 179,
+    "name": "KC_MY_COMPUTER",
+    "label": "My Computer",
+    "category": "Special",
+    "legacy": 179,
+    "stable": 179
+  },
+  {
+    "value": 180,
+    "name": "KC_WWW_SEARCH",
+    "label": "Www Search",
+    "category": "Special",
+    "legacy": 180,
+    "stable": 180
+  },
+  {
+    "value": 181,
+    "name": "KC_WWW_HOME",
+    "label": "Www Home",
+    "category": "Special",
+    "legacy": 181,
+    "stable": 181
+  },
+  {
+    "value": 182,
+    "name": "KC_WWW_BACK",
+    "label": "Www Back",
+    "category": "Special",
+    "legacy": 182,
+    "stable": 182
+  },
+  {
+    "value": 183,
+    "name": "KC_WWW_FORWARD",
+    "label": "Www Forward",
+    "category": "Special",
+    "legacy": 183,
+    "stable": 183
+  },
+  {
+    "value": 184,
+    "name": "KC_WWW_STOP",
+    "label": "Www Stop",
+    "category": "Special",
+    "legacy": 184,
+    "stable": 184
+  },
+  {
+    "value": 185,
+    "name": "KC_WWW_REFRESH",
+    "label": "Www Refresh",
+    "category": "Special",
+    "legacy": 185,
+    "stable": 185
+  },
+  {
+    "value": 186,
+    "name": "KC_WWW_FAVORITES",
+    "label": "Www Favorites",
+    "category": "Special",
+    "legacy": 186,
+    "stable": 186
+  },
+  {
+    "value": 189,
+    "name": "KC_BRIGHTNESS_UP",
+    "label": "Brightness Up",
+    "category": "Special",
+    "legacy": 189,
+    "stable": 189
+  },
+  {
+    "value": 190,
+    "name": "KC_BRIGHTNESS_DOWN",
+    "label": "Brightness Down",
+    "category": "Special",
+    "legacy": 190,
+    "stable": 190
+  },
+  {
+    "value": 193,
+    "name": "KC_MISSION_CONTROL",
+    "label": "Mission Control",
+    "category": "Platform"
+  },
+  {
+    "value": 194,
+    "name": "KC_LAUNCHPAD",
+    "label": "Launchpad",
+    "category": "Platform"
+  },
+  {
+    "value": 205,
+    "name": "QK_MOUSE_CURSOR_UP",
+    "label": "Mouse Up",
+    "category": "Special"
+  },
+  {
+    "value": 206,
+    "name": "QK_MOUSE_CURSOR_DOWN",
+    "label": "Mouse Down",
+    "category": "Special"
+  },
+  {
+    "value": 207,
+    "name": "QK_MOUSE_CURSOR_LEFT",
+    "label": "Mouse Left",
+    "category": "Special"
+  },
+  {
+    "value": 208,
+    "name": "QK_MOUSE_CURSOR_RIGHT",
+    "label": "Mouse Right",
+    "category": "Special"
+  },
+  {
+    "value": 209,
+    "name": "QK_MOUSE_BUTTON_1",
+    "label": "Mouse Btn 1",
+    "category": "Special"
+  },
+  {
+    "value": 210,
+    "name": "QK_MOUSE_BUTTON_2",
+    "label": "Mouse Btn 2",
+    "category": "Special"
+  },
+  {
+    "value": 211,
+    "name": "QK_MOUSE_BUTTON_3",
+    "label": "Mouse Btn 3",
+    "category": "Special"
+  },
+  {
+    "value": 212,
+    "name": "QK_MOUSE_BUTTON_4",
+    "label": "Mouse Btn 4",
+    "category": "Special"
+  },
+  {
+    "value": 213,
+    "name": "QK_MOUSE_BUTTON_5",
+    "label": "Mouse Btn 5",
+    "category": "Special"
+  },
+  {
+    "value": 214,
+    "name": "QK_MOUSE_BUTTON_6",
+    "label": "Mouse Btn 6",
+    "category": "Special"
+  },
+  {
+    "value": 215,
+    "name": "QK_MOUSE_BUTTON_7",
+    "label": "Mouse Btn 7",
+    "category": "Special"
+  },
+  {
+    "value": 216,
+    "name": "QK_MOUSE_BUTTON_8",
+    "label": "Mouse Btn 8",
+    "category": "Special"
+  },
+  {
+    "value": 217,
+    "name": "QK_MOUSE_WHEEL_UP",
+    "label": "Mouse Wheel Up",
+    "category": "Special"
+  },
+  {
+    "value": 218,
+    "name": "QK_MOUSE_WHEEL_DOWN",
+    "label": "Mouse Wheel Down",
+    "category": "Special"
+  },
+  {
+    "value": 219,
+    "name": "QK_MOUSE_WHEEL_LEFT",
+    "label": "Mouse Wheel Left",
+    "category": "Special"
+  },
+  {
+    "value": 220,
+    "name": "QK_MOUSE_WHEEL_RIGHT",
+    "label": "Mouse Wheel Right",
+    "category": "Special"
+  },
+  {
+    "value": 221,
+    "name": "QK_MOUSE_ACCELERATION_0",
+    "label": "Mouse Accel 0",
+    "category": "Special"
+  },
+  {
+    "value": 222,
+    "name": "QK_MOUSE_ACCELERATION_1",
+    "label": "Mouse Accel 1",
+    "category": "Special"
+  },
+  {
+    "value": 223,
+    "name": "QK_MOUSE_ACCELERATION_2",
+    "label": "Mouse Accel 2",
+    "category": "Special"
+  },
+  {
+    "value": 28672,
+    "name": "QK_MAGIC_SWAP_CONTROL_CAPS_LOCK",
+    "label": "Swap Control Caps Lock",
+    "category": "Special"
+  },
+  {
+    "value": 28673,
+    "name": "QK_MAGIC_UNSWAP_CONTROL_CAPS_LOCK",
+    "label": "Unswap Control Caps Lock",
+    "category": "Special"
+  },
+  {
+    "value": 28674,
+    "name": "QK_MAGIC_TOGGLE_CONTROL_CAPS_LOCK",
+    "label": "Toggle Control Caps Lock",
+    "category": "Special"
+  },
+  {
+    "value": 28675,
+    "name": "QK_MAGIC_CAPS_LOCK_AS_CONTROL_OFF",
+    "label": "Caps Lock As Control Off",
+    "category": "Special"
+  },
+  {
+    "value": 28676,
+    "name": "QK_MAGIC_CAPS_LOCK_AS_CONTROL_ON",
+    "label": "Caps Lock As Control On",
+    "category": "Special"
+  },
+  {
+    "value": 28677,
+    "name": "QK_MAGIC_SWAP_LALT_LGUI",
+    "label": "Swap Lalt Lgui",
+    "category": "Special"
+  },
+  {
+    "value": 28678,
+    "name": "QK_MAGIC_UNSWAP_LALT_LGUI",
+    "label": "Unswap Lalt Lgui",
+    "category": "Special"
+  },
+  {
+    "value": 28679,
+    "name": "QK_MAGIC_SWAP_RALT_RGUI",
+    "label": "Swap Ralt Rgui",
+    "category": "Special"
+  },
+  {
+    "value": 28680,
+    "name": "QK_MAGIC_UNSWAP_RALT_RGUI",
+    "label": "Unswap Ralt Rgui",
+    "category": "Special"
+  },
+  {
+    "value": 28681,
+    "name": "QK_MAGIC_GUI_ON",
+    "label": "Gui On",
+    "category": "Special"
+  },
+  {
+    "value": 28682,
+    "name": "QK_MAGIC_GUI_OFF",
+    "label": "Gui Off",
+    "category": "Special"
+  },
+  {
+    "value": 28683,
+    "name": "QK_MAGIC_TOGGLE_GUI",
+    "label": "Toggle Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28684,
+    "name": "QK_MAGIC_SWAP_GRAVE_ESC",
+    "label": "Swap Grave Esc",
+    "category": "Special"
+  },
+  {
+    "value": 28685,
+    "name": "QK_MAGIC_UNSWAP_GRAVE_ESC",
+    "label": "Unswap Grave Esc",
+    "category": "Special"
+  },
+  {
+    "value": 28686,
+    "name": "QK_MAGIC_SWAP_BACKSLASH_BACKSPACE",
+    "label": "Swap Backslash Backspace",
+    "category": "Special"
+  },
+  {
+    "value": 28687,
+    "name": "QK_MAGIC_UNSWAP_BACKSLASH_BACKSPACE",
+    "label": "Unswap Backslash Backspace",
+    "category": "Special"
+  },
+  {
+    "value": 28688,
+    "name": "QK_MAGIC_TOGGLE_BACKSLASH_BACKSPACE",
+    "label": "Toggle Backslash Backspace",
+    "category": "Special"
+  },
+  {
+    "value": 28689,
+    "name": "QK_MAGIC_NKRO_ON",
+    "label": "Nkro On",
+    "category": "Special"
+  },
+  {
+    "value": 28690,
+    "name": "QK_MAGIC_NKRO_OFF",
+    "label": "Nkro Off",
+    "category": "Special"
+  },
+  {
+    "value": 28691,
+    "name": "QK_MAGIC_TOGGLE_NKRO",
+    "label": "Toggle Nkro",
+    "category": "Special"
+  },
+  {
+    "value": 28692,
+    "name": "QK_MAGIC_SWAP_ALT_GUI",
+    "label": "Swap Alt Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28693,
+    "name": "QK_MAGIC_UNSWAP_ALT_GUI",
+    "label": "Unswap Alt Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28694,
+    "name": "QK_MAGIC_TOGGLE_ALT_GUI",
+    "label": "Toggle Alt Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28695,
+    "name": "QK_MAGIC_SWAP_LCTL_LGUI",
+    "label": "Swap Lctl Lgui",
+    "category": "Special"
+  },
+  {
+    "value": 28696,
+    "name": "QK_MAGIC_UNSWAP_LCTL_LGUI",
+    "label": "Unswap Lctl Lgui",
+    "category": "Special"
+  },
+  {
+    "value": 28697,
+    "name": "QK_MAGIC_SWAP_RCTL_RGUI",
+    "label": "Swap Rctl Rgui",
+    "category": "Special"
+  },
+  {
+    "value": 28698,
+    "name": "QK_MAGIC_UNSWAP_RCTL_RGUI",
+    "label": "Unswap Rctl Rgui",
+    "category": "Special"
+  },
+  {
+    "value": 28699,
+    "name": "QK_MAGIC_SWAP_CTL_GUI",
+    "label": "Swap Ctl Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28700,
+    "name": "QK_MAGIC_UNSWAP_CTL_GUI",
+    "label": "Unswap Ctl Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28701,
+    "name": "QK_MAGIC_TOGGLE_CTL_GUI",
+    "label": "Toggle Ctl Gui",
+    "category": "Special"
+  },
+  {
+    "value": 28702,
+    "name": "QK_MAGIC_EE_HANDS_LEFT",
+    "label": "Ee Hands Left",
+    "category": "Special"
+  },
+  {
+    "value": 28703,
+    "name": "QK_MAGIC_EE_HANDS_RIGHT",
+    "label": "Ee Hands Right",
+    "category": "Special"
+  },
+  {
+    "value": 28704,
+    "name": "QK_MAGIC_SWAP_ESCAPE_CAPS_LOCK",
+    "label": "Swap Escape Caps Lock",
+    "category": "Special"
+  },
+  {
+    "value": 28705,
+    "name": "QK_MAGIC_UNSWAP_ESCAPE_CAPS_LOCK",
+    "label": "Unswap Escape Caps Lock",
+    "category": "Special"
+  },
+  {
+    "value": 28706,
+    "name": "QK_MAGIC_TOGGLE_ESCAPE_CAPS_LOCK",
+    "label": "Toggle Escape Caps Lock",
+    "category": "Special"
+  },
+  {
+    "value": 29824,
+    "name": "QK_AUDIO_ON",
+    "label": "Audio On",
+    "category": "Special",
+    "legacy": 23581,
+    "stable": 29824
+  },
+  {
+    "value": 29825,
+    "name": "QK_AUDIO_OFF",
+    "label": "Audio Off",
+    "category": "Special",
+    "legacy": 23582,
+    "stable": 29825
+  },
+  {
+    "value": 29826,
+    "name": "QK_AUDIO_TOGGLE",
+    "label": "Audio Toggle",
+    "category": "Special"
+  },
+  {
+    "value": 29834,
+    "name": "QK_AUDIO_CLICKY_TOGGLE",
+    "label": "Audio Clicky Toggle",
+    "category": "Special"
+  },
+  {
+    "value": 29835,
+    "name": "QK_AUDIO_CLICKY_ON",
+    "label": "Audio Clicky On",
+    "category": "Special"
+  },
+  {
+    "value": 29836,
+    "name": "QK_AUDIO_CLICKY_OFF",
+    "label": "Audio Clicky Off",
+    "category": "Special"
+  },
+  {
+    "value": 29837,
+    "name": "QK_AUDIO_CLICKY_UP",
+    "label": "Audio Clicky Up",
+    "category": "Special"
+  },
+  {
+    "value": 29838,
+    "name": "QK_AUDIO_CLICKY_DOWN",
+    "label": "Audio Clicky Down",
+    "category": "Special"
+  },
+  {
+    "value": 29839,
+    "name": "QK_AUDIO_CLICKY_RESET",
+    "label": "Audio Clicky Reset",
+    "category": "Special"
+  },
+  {
+    "value": 29840,
+    "name": "QK_MUSIC_ON",
+    "label": "Music On",
+    "category": "Special",
+    "legacy": 23590,
+    "stable": 29840
+  },
+  {
+    "value": 29841,
+    "name": "QK_MUSIC_OFF",
+    "label": "Music Off",
+    "category": "Special",
+    "legacy": 23591,
+    "stable": 29841
+  },
+  {
+    "value": 29842,
+    "name": "QK_MUSIC_TOGGLE",
+    "label": "Music Toggle",
+    "category": "Special"
+  },
+  {
+    "value": 29843,
+    "name": "QK_MUSIC_MODE_NEXT",
+    "label": "Music Mode Next",
+    "category": "Special"
+  },
+  {
+    "value": 29844,
+    "name": "QK_AUDIO_VOICE_NEXT",
+    "label": "Audio Voice Next",
+    "category": "Special"
+  },
+  {
+    "value": 29845,
+    "name": "QK_AUDIO_VOICE_PREVIOUS",
+    "label": "Audio Voice Previous",
+    "category": "Special"
+  },
+  {
+    "value": 30720,
+    "name": "QK_BACKLIGHT_ON",
+    "label": "Backlight On",
+    "category": "Lighting",
+    "legacy": 23739,
+    "stable": 30720
+  },
+  {
+    "value": 30721,
+    "name": "QK_BACKLIGHT_OFF",
+    "label": "Backlight Off",
+    "category": "Lighting",
+    "legacy": 23740,
+    "stable": 30721
+  },
+  {
+    "value": 30722,
+    "name": "QK_BACKLIGHT_TOGGLE",
+    "label": "Backlight Toggle",
+    "category": "Lighting",
+    "legacy": 23743,
+    "stable": 30722
+  },
+  {
+    "value": 30723,
+    "name": "QK_BACKLIGHT_DOWN",
+    "label": "Backlight Down",
+    "category": "Lighting"
+  },
+  {
+    "value": 30724,
+    "name": "QK_BACKLIGHT_UP",
+    "label": "Backlight Up",
+    "category": "Lighting"
+  },
+  {
+    "value": 30725,
+    "name": "QK_BACKLIGHT_STEP",
+    "label": "Backlight Step",
+    "category": "Lighting",
+    "legacy": 23744,
+    "stable": 30725
+  },
+  {
+    "value": 30726,
+    "name": "QK_BACKLIGHT_TOGGLE_BREATHING",
+    "label": "Backlight Toggle Breathing",
+    "category": "Lighting",
+    "legacy": 23745,
+    "stable": 30726
+  },
+  {
+    "value": 30784,
+    "name": "QK_RGB_MATRIX_ON",
+    "label": "RGB On",
+    "category": "Lighting",
+    "legacy": 39312,
+    "stable": 30784
+  },
+  {
+    "value": 30785,
+    "name": "QK_RGB_MATRIX_OFF",
+    "label": "RGB Off",
+    "category": "Lighting",
+    "legacy": 39313,
+    "stable": 30785
+  },
+  {
+    "value": 30786,
+    "name": "QK_RGB_MATRIX_TOGGLE",
+    "label": "RGB Toggle",
+    "category": "Lighting",
+    "legacy": 39314,
+    "stable": 30786
+  },
+  {
+    "value": 30787,
+    "name": "QK_RGB_MATRIX_MODE_NEXT",
+    "label": "RGB Mode Next",
+    "category": "Lighting",
+    "legacy": 39315,
+    "stable": 30787
+  },
+  {
+    "value": 30788,
+    "name": "QK_RGB_MATRIX_MODE_PREVIOUS",
+    "label": "RGB Mode Previous",
+    "category": "Lighting",
+    "legacy": 39316,
+    "stable": 30788
+  },
+  {
+    "value": 30789,
+    "name": "QK_RGB_MATRIX_HUE_UP",
+    "label": "RGB Hue Up",
+    "category": "Lighting",
+    "legacy": 39317,
+    "stable": 30789
+  },
+  {
+    "value": 30790,
+    "name": "QK_RGB_MATRIX_HUE_DOWN",
+    "label": "RGB Hue Down",
+    "category": "Lighting",
+    "legacy": 39318,
+    "stable": 30790
+  },
+  {
+    "value": 30791,
+    "name": "QK_RGB_MATRIX_SATURATION_UP",
+    "label": "RGB Saturation Up",
+    "category": "Lighting",
+    "legacy": 39319,
+    "stable": 30791
+  },
+  {
+    "value": 30792,
+    "name": "QK_RGB_MATRIX_SATURATION_DOWN",
+    "label": "RGB Saturation Down",
+    "category": "Lighting",
+    "legacy": 39320,
+    "stable": 30792
+  },
+  {
+    "value": 30793,
+    "name": "QK_RGB_MATRIX_VALUE_UP",
+    "label": "RGB Value Up",
+    "category": "Lighting",
+    "legacy": 39321,
+    "stable": 30793
+  },
+  {
+    "value": 30794,
+    "name": "QK_RGB_MATRIX_VALUE_DOWN",
+    "label": "RGB Value Down",
+    "category": "Lighting",
+    "legacy": 39322,
+    "stable": 30794
+  },
+  {
+    "value": 30795,
+    "name": "QK_RGB_MATRIX_SPEED_UP",
+    "label": "RGB Speed Up",
+    "category": "Lighting",
+    "legacy": 39323,
+    "stable": 30795
+  },
+  {
+    "value": 30796,
+    "name": "QK_RGB_MATRIX_SPEED_DOWN",
+    "label": "RGB Speed Down",
+    "category": "Lighting",
+    "legacy": 39324,
+    "stable": 30796
+  },
+  {
+    "value": 30797,
+    "name": "QK_RGB_MATRIX_FLAG_NEXT",
+    "label": "RGB Flag Next",
+    "category": "Lighting"
+  },
+  {
+    "value": 30798,
+    "name": "QK_RGB_MATRIX_FLAG_PREVIOUS",
+    "label": "RGB Flag Previous",
+    "category": "Lighting"
+  },
+  {
+    "value": 31744,
+    "name": "QK_BOOTLOADER",
+    "label": "Bootloader",
+    "category": "Special",
+    "legacy": 23552,
+    "stable": 31744
+  },
+  {
+    "value": 31746,
+    "name": "QK_DEBUG_TOGGLE",
+    "label": "Debug Toggle",
+    "category": "Special"
+  },
+  {
+    "value": 31747,
+    "name": "QK_CLEAR_EEPROM",
+    "label": "Clear Eeprom",
+    "category": "Special",
+    "legacy": 23775,
+    "stable": 31747
+  }
+]

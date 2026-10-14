@@ -1,0 +1,1880 @@
+{
+  "retrieved": "2026-10-13",
+  "count": 116,
+  "definitions": [
+    {
+      "name": "Createkeebs Thera75 V2 (Hotswap)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "page": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+          "note": "Preserved verified Thera75 V2 encoder metadata from 0.5.0."
+        }
+      ]
+    },
+    {
+      "name": "Createkeebs Thera75 V2 (Solder)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "page": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+          "note": "Preserved verified Thera75 V2 encoder metadata from 0.5.0."
+        }
+      ]
+    },
+    {
+      "name": "Wind Studio X80",
+      "vendorId": 13357,
+      "productId": 58536,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1wycztF1-v77TziHwduucU7NvzEqChN8h",
+          "page": "https://windstudio.store/pages/wind-x80-software-guide",
+          "label": "json firmware here",
+          "name": "X80",
+          "sha256": "a74730309a276c2f7e68eec970d35ad408ac0bf0715882559667be2a2b84bcba"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio NAMA",
+      "vendorId": 7847,
+      "productId": 51934,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/NAMA-via-v3.json?v=1785748929",
+          "page": "https://shop.wuquestudio.com/pages/user-manual",
+          "label": "NAMA75 Json V3",
+          "name": "NAMA",
+          "sha256": "2d67a464e6b4f0e70afbcb90b340f1573b72c25517b3d4567c4bfff5d084698a"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey Nova",
+      "vendorId": 14000,
+      "productId": 12533,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=1fbFQQ38GtXX4kt-ZEm2zg2Z_DsKX9G0N",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "LK_Nova.JSON Unknown",
+          "name": "LK_Nova",
+          "sha256": "2a0161afa007ec471e30ae8808ff9d7de67722773b719f05488fdebaebadf707"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio DK60",
+      "vendorId": 14000,
+      "productId": 12444,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/DK60.json?v=1768359457",
+          "page": "https://shop.wuquestudio.com/pages/user-manual",
+          "label": "Json",
+          "name": "DK60",
+          "sha256": "2789206d86e872a596d6ed55808b12c531f59b55673ab3a74fdcec15a5a979af"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Mammoth20X wireless",
+      "vendorId": 7847,
+      "productId": 30583,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1-niMTEq8pP34V1S34dHrWhc3ZfrQwZ1V",
+          "page": "https://shop.wuquestudio.com/products/gb-soonmammoth75",
+          "label": "Mammoth20X wireless-via.json Unknown",
+          "name": "Mammoth20X wireless",
+          "sha256": "92d852d26d329d73cf0de2024392cf6b46cc255e892b11acbc6a73213b969501"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Mammoth75X wireless",
+      "vendorId": 7847,
+      "productId": 30583,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1JTJd44KR-TSr9mcbm7smtnGNnzwNjKWE",
+          "page": "https://shop.wuquestudio.com/products/gb-soonmammoth75",
+          "label": "mammoth75x P3 PCB-via.json Unknown",
+          "name": "Mammoth75X wireless",
+          "sha256": "b2a5173051c9b8e90254035d931f39152fa51f4c7c60af649133d312e671f1f2"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey KINE",
+      "vendorId": 14000,
+      "productId": 12580,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=1ih4AuhuZLNrdFey0vAey62pj_Iq_UUP2",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "VIA-JSON",
+          "name": "LK-KINE",
+          "sha256": "cf0d737086b8ffc6fc8db3e67f3a4066b7d78c526a263959244463b2e267d46b"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey 65 (2.4G)",
+      "vendorId": 12815,
+      "productId": 20616,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=1o9nS3yk5Ene02aizApqnHbowCm_3kT8W",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "LK65-2.4G-20231114.JSON Unknown",
+          "name": "LK65",
+          "sha256": "89e486de44888e336159d024c7ebd4a015998da10d619616b1a76f3f2a44719a"
+        }
+      ]
+    },
+    {
+      "name": "Wind Sin65 (Universal)",
+      "vendorId": 14342,
+      "productId": 14343,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1qjb1f5U2j994ATuV2l1hwijz0kb78yin",
+          "page": "https://windstudio.store/pages/download",
+          "label": "via-sin65_universal_v2.json Unknown",
+          "name": "sin65",
+          "sha256": "3e67a0505c47b4147f2807b84f6cf2fb7602afdfbfe8c218cc8dcb6291018991"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey 65 (USB)",
+      "vendorId": 12815,
+      "productId": 20565,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=1OkGvmMdDncuZe0b3EZojEelAFcwyKXGl",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "LK65-USB-20231114.JSON Unknown",
+          "name": "LK65",
+          "sha256": "389d0675d03ef2f5022283626267c059422bdb419f6225fbf762f4be87440310"
+        }
+      ]
+    },
+    {
+      "name": "Wind Sin65 (Wired)",
+      "vendorId": 14343,
+      "productId": 14344,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=14DJnkz1zeuKzDTewYi0oGIarbqixSJW2",
+          "page": "https://windstudio.store/pages/download",
+          "label": "via-sin65_v2.json Unknown",
+          "name": "sin65",
+          "sha256": "53c082ee2e9ef776cd07eabb5040579be511c1da978ca0ba8971988d74dc1f49"
+        }
+      ]
+    },
+    {
+      "name": "Wind X R2 (Normal soldered pcb-)",
+      "vendorId": 14337,
+      "productId": 14338,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1-XoK4jD75VLu7DaWyI0werHAUdlKXFjd",
+          "page": "https://windstudio.store/pages/download",
+          "label": "Normal soldered pcb-via.json Unknown",
+          "name": "xr2",
+          "sha256": "110631509b94bde03e89a71a0b2903d0348672b130fde2cc78b707b3a9ed7185"
+        }
+      ]
+    },
+    {
+      "name": "Wind X R2 (Southpaw enter-left)",
+      "vendorId": 14337,
+      "productId": 14338,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1ZStP2F08Mg781EFJgVxC1A4HCOHV7xhm",
+          "page": "https://windstudio.store/pages/download",
+          "label": "Southpaw enter-left via.json Unknown",
+          "name": "xr2",
+          "sha256": "2b649774788878fa0dba6ad341e4de773dfe49e659d4129ead4a8a7ca1f9a4c7"
+        }
+      ]
+    },
+    {
+      "name": "Wind X R2 (Southpaw enter-right)",
+      "vendorId": 14337,
+      "productId": 14338,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1Kakvgs-mHB1hlSWpLPxuO4R_iMJ51pwy",
+          "page": "https://windstudio.store/pages/download",
+          "label": "Southpaw enter-right via.json Unknown",
+          "name": "xr2",
+          "sha256": "dffaada646fda7d39b9478f2e1ddd2b0b5101ca27e22ea697d91d718b02626f1"
+        }
+      ]
+    },
+    {
+      "name": "Wind X R2 (Southpaw soldered)",
+      "vendorId": 14337,
+      "productId": 14338,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1LPvI9U6LIxU4e2_bW901MIX20i1a0BMd",
+          "page": "https://windstudio.store/pages/download",
+          "label": "Southpaw soldered .json Unknown",
+          "name": "xr2",
+          "sha256": "a4c07fbb436801d6fddc846167e51c7990ccb7b42dd0e3d4a07136c46cdc35e8"
+        }
+      ]
+    },
+    {
+      "name": "Wind X R2 (Wired Hotswap)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1CDfWCUf7uJRigAdmFLYkI6vmdO2lVFrE",
+          "page": "https://windstudio.store/pages/download",
+          "label": "wind x R2-via.json Unknown",
+          "name": "winxR2via",
+          "sha256": "d048c021da5ba6f00273f608311a299f0b3738a3f9b2f5b526387db4faa67d5d"
+        }
+      ]
+    },
+    {
+      "name": "Wind X98 (Wired)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1REcT_9L_RfliyGqe2kZNJZo_HCep0XKg",
+          "page": "https://windstudio.store/pages/download",
+          "label": "windx98-via.json Unknown",
+          "name": "winx98via",
+          "sha256": "d12a089ed78b43ca3deefe8d687947c413eccb6c994a7f833dce18b29a9c8db9"
+        }
+      ]
+    },
+    {
+      "name": "Wind X65 (Hotswap)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=16nKiYwLD52_0Ysbln0zZNOeBtOSLEQsP",
+          "page": "https://windstudio.store/pages/download",
+          "label": "wind x65 hotswap-via(1).json Unknown",
+          "name": "winx65r-via",
+          "sha256": "579af08af250ecc997d115682b25b1112f6fc12075107885f491bdd94f68d1d4"
+        }
+      ]
+    },
+    {
+      "name": "Wind X65 (Solder)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1rL49oY4544e1GcYfVSG1B1xJ7DaucwgQ",
+          "page": "https://windstudio.store/pages/download",
+          "label": "wind x65 soldered-via.json Unknown",
+          "name": "winx65h-via",
+          "sha256": "e935d6e7ba1c8d16c401198f72dde76bdb70e0c2b6058d8a7ed729f8a8951723"
+        }
+      ]
+    },
+    {
+      "name": "Wind X R1",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Wind Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1MCzelWjKFY0cW-c56TTqbzf8358jsSiP",
+          "page": "https://windstudio.store/pages/download",
+          "label": "windx-via.json Unknown",
+          "name": "winxvia",
+          "sha256": "642239618caf85d48e99f9571258d8fb64a4372e6b54c3eb8b78c89e757c776d"
+        }
+      ]
+    },
+    {
+      "name": "NIZ x87 VIA (V1.3)",
+      "vendorId": 1153,
+      "productId": 2,
+      "sources": [
+        {
+          "brand": "NIZ",
+          "url": "https://drive.google.com/uc?export=download&id=1V2rZ_dfUhOn9CIYKAyquwWvDEwbnlXgI",
+          "page": "https://www.nizkeyboard.com/pages/firmware-upgrade",
+          "label": "via-niz87_v1.3.json Unknown",
+          "name": "keyboard_87key",
+          "sha256": "c67366269a23d74cf9a2ded06e6d5333b738c790e8266773e1b90283614aee62"
+        },
+        {
+          "brand": "NIZ",
+          "url": "https://drive.google.com/uc?export=download&id=1ytHKFuxmdgPOek4jzqQ5RKplO2oMjZ0g",
+          "page": "https://www.nizkeyboard.com/pages/firmware-upgrade",
+          "label": "via-niz87-3.0-2023-09-26.json Unknown",
+          "name": "keyboard_87key",
+          "sha256": "5f5e968b111538052b60015c29a7d696f6b4dd9a2d30bee4a8445239380ebe4c"
+        },
+        {
+          "brand": "NIZ",
+          "url": "https://drive.google.com/uc?export=download&id=1iwQIuRrcwd3-xA4msczLq3FB7ub_0uy6",
+          "page": "https://www.nizkeyboard.com/pages/firmware-upgrade",
+          "label": "via-niz87-20230215.json Unknown",
+          "name": "keyboard_87key",
+          "sha256": "b39de8bd2c40727f3044497dde787affc964ce833bfb543c607fb5b4ab33676f"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix Zoom65 V3 (ANSI PCB)",
+      "vendorId": 14005,
+      "productId": 10367,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/ZOOM65_v3_1.2PCB_via_Json.v1.05_20240827.json?v=1725971248",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json-ANSI",
+          "name": "Zoom65 3v",
+          "sha256": "57f7f92bb0979bae7e811df16c1c772fae60567c7a10c1af63711e7047d807cb"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix Zoom65 V3 (ISO PCB)",
+      "vendorId": 14005,
+      "productId": 10367,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/ZOOM65_v3_1.6PCB_uk_via_v1.01_20240827.json?v=1725971248",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via-json-ISO",
+          "name": "Zoom65 3v",
+          "sha256": "53f68c8ef28de6a236ac5715ae5b48724f67042371b9cd182048fc613c2a2777"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix zoom75 wireless rgb",
+      "vendorId": 7847,
+      "productId": 52947,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/zoom75_wireless_rgb-via-v33.json?v=1725969893",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "zoom75 wireless rgb",
+          "sha256": "f826ab15cfdd02d1226b72d8c74f2f793f4cb318f4daf18afb1e551111f6326a"
+        },
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1h4KzTPbaYBmrmCijg2ccGjGVLVepQl8j",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "VIA .json",
+          "name": "zoom75 wireless rgb",
+          "sha256": "f826ab15cfdd02d1226b72d8c74f2f793f4cb318f4daf18afb1e551111f6326a"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix Zoom75 Tiga",
+      "vendorId": 7847,
+      "productId": 52957,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/Zoom75_Tiga_rgb-via-v3.json?v=1735807843",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "Zoom75 Tiga",
+          "sha256": "0e595c1c88f35e3cebabce9ef3d4d6289063265fc092e23dc75aea1847b4066a"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM 98 [via json]",
+      "vendorId": 7847,
+      "productId": 52584,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/ZOOM_98-VIA-V3.json?v=1742887973",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "ZOOM 98",
+          "sha256": "c28ad5049e16aa4cfce031cb005ad291a30dc208d99c39f0044a801e0aa93bfd"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZoomPad TIGA",
+      "vendorId": 7847,
+      "productId": 52128,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/PAD_TIGA-via-v3.json?v=1739772298",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "PAD TIGA",
+          "sha256": "0cc67eb23b51eee742fb60e87c05f7d40b5a96a476bf43dde1957acbada367d0"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM TKL DYNA",
+      "vendorId": 21826,
+      "productId": 51591,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/ZOOM_TKL_DYNA-via-v3.json?v=1754277834",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "ZOOM TKL DYNA",
+          "sha256": "899af70505be9efcec2fb5c20ac1f853bafff061e761c4048e5c29a948069342"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM64",
+      "vendorId": 28007,
+      "productId": 356,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/ZOOM64-v2-via-v3_1.json?v=1773976576",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "ZOOM64",
+          "sha256": "96bdba75f0903cff7872b2f31edde62d40c05971aad8413d2fe1be25c3aad4c5"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM64 HUB",
+      "vendorId": 14005,
+      "productId": 10185,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/zoom64_hub_via_v1.00.json?v=1776413133",
+          "page": "https://meletrix.com/pages/firmwares",
+          "label": "via json",
+          "name": "ZOOM64 HUB",
+          "sha256": "9ba3c05a4347e570babd443cdb6bae5ef8eb05ff01713c2be1dede1e241af98d"
+        }
+      ]
+    },
+    {
+      "name": "Createkeebs High65hotswap",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Createkeebs",
+          "url": "https://epomaker.com/cdn/shop/files/high65v2_firmware.zip?v=14990955017103161231",
+          "page": "https://epomaker.com/blogs/via-json/epomaker-createkeebs-high65-v2-json-file",
+          "label": "high65v2 firmware/High65V2¡ª¡ªvia.json",
+          "name": "High65hotswap",
+          "sha256": "02570bfeb0d86a954f8f072cfd99f5dbbcee023ef78ff2fc35a024d63afdfcee"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey LX-60",
+      "vendorId": 13357,
+      "productId": 58547,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=11qjhzsD9nfnY1YJUIddHCRvWUrYcLkar",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "LX60_Trimode.json Unknown",
+          "name": "LX-60",
+          "sha256": "a243276407bb3e92159b0ed32e89c97566c731727ed6ae3c66d811ef8b9e0d4b"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey lx60",
+      "vendorId": 1040,
+      "productId": 24577,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=138K_AsMd4Ea_IleHi8utE1sgHvDNKyAo",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "luminkey_lx60_via_v3.json Unknown",
+          "name": "luminkey lx60 ",
+          "sha256": "c26fd668f304c107bccb9612f0c8257d438f6157f16113fc1dcf61b33de72252"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey LO 75 (2.4G)",
+      "vendorId": 12815,
+      "productId": 20616,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=1adGcoSDAqmIbA4izZsDYobfnlQn60Ohg",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "LO75-2.4G.JSON Unknown",
+          "name": "LO 75",
+          "sha256": "3a85a3f1aeb204233948918047bbb4affb87a4130b97c3a239416d3b39bf1f08"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey LO 75 (USB)",
+      "vendorId": 12815,
+      "productId": 20565,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=17vPcKS_vhhgRmupDb-_rOFC0aounCFnm",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "LO75-USB.JSON Unknown",
+          "name": "LO 75",
+          "sha256": "e2dd58e49e77e26a858a3732f282836c62ee5b934ddd8eb489abfdc2d91e655d"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey 80",
+      "vendorId": 65534,
+      "productId": 40,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://drive.google.com/uc?export=download&id=1wtquviPY-7cznDb3ePIcod-3cc85TfIS",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "Luminkey80_VIA File_20231127.json Unknown",
+          "name": "LK80",
+          "sha256": "9daa1910cd4038401aa98955deb658fa31108d29accf1a6b1d88bd0a6d338f7c"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey 80-MK2 (Hotswap)",
+      "vendorId": 14000,
+      "productId": 12707,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://cdn.shopify.com/s/files/1/0815/1800/2452/files/LK80MK2-QMK.json?v=1785488216",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "QMK JSON(Hot-Swap)",
+          "name": "LK80-MK2",
+          "sha256": "1d8418b46f7165f928afed75d974802aa009b5c23c0f8f497bc4daebc1a70260"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Freya  wireless",
+      "vendorId": 7847,
+      "productId": 53380,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/Frey_wireless_VIA_V3_Edited_by_Jit.json?v=1761796885",
+          "page": "https://shop.wuquestudio.com/pages/firmwares",
+          "label": "via json",
+          "name": "Freya  wireless",
+          "sha256": "0be133a1e046c7b94165227518ee71e6ba14f27b4b467167df7e60823b4245ab"
+        }
+      ]
+    },
+    {
+      "name": "Luminkey 80mk2 (Solder)",
+      "vendorId": 8230,
+      "productId": 1063,
+      "sources": [
+        {
+          "brand": "Createkeebs / Luminkey",
+          "url": "https://cdn.shopify.com/s/files/1/0815/1800/2452/files/lk80mk2_hj.json?v=1785744179",
+          "page": "https://www.luminkey.com/pages/user-guide",
+          "label": "Solder JSON",
+          "name": "lk80mk2",
+          "sha256": "8d09aa635b5b574af8be802af6162315af799fb962d6f0bf09604b96449a397d"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Paper80",
+      "vendorId": 46885,
+      "productId": 46885,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/Paper80.json?v=1735869566",
+          "page": "https://shop.wuquestudio.com/pages/firmwares",
+          "label": "via json",
+          "name": "Paper80",
+          "sha256": "c0a8629877f91e9a2611d23d10e731c7de9768c93c70462a76c81044ebaf4454"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Vany",
+      "vendorId": 46915,
+      "productId": 46915,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/Vany_Alice.json?v=1765525846",
+          "page": "https://shop.wuquestudio.com/pages/firmwares",
+          "label": "via json",
+          "name": "Vany",
+          "sha256": "f2f8f3529842a4c355aa2bcee9e71c32629ca4babd63bc4b914dfe5e11ba8d4a"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Ginkgo65 pro",
+      "vendorId": 12815,
+      "productId": 20565,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/Ginkgo65_pro.JSON?v=1765527111",
+          "page": "https://shop.wuquestudio.com/pages/firmwares",
+          "label": "via json (Solder)",
+          "name": "Ginkgo65 pro",
+          "sha256": "884789789ad6ffad10b5901cc1ea6591f7bde6d2690e8ebd02ade0a78544096e"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Ginkgo65pro hot",
+      "vendorId": 12815,
+      "productId": 20566,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/Ginkgo65pro_hotswap.JSON?v=1765527341",
+          "page": "https://shop.wuquestudio.com/pages/firmwares",
+          "label": "via json (Hot Swap)",
+          "name": "Ginkgo65pro hot",
+          "sha256": "62855470933b8a33642da19da7bdc719daced52e0c8f2bd0a2102e03dd002ab1"
+        }
+      ]
+    },
+    {
+      "name": "Wuque Studio Paper 65 Mechanical Keyboard",
+      "vendorId": 10473,
+      "productId": 12690,
+      "sources": [
+        {
+          "brand": "Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0403/9809/4489/files/JSON-_PAPER65_QMK_ThreeModeKeyboard_V0103_20250607.json?v=1774847998",
+          "page": "https://shop.wuquestudio.com/pages/firmwares",
+          "label": "json",
+          "name": "Paper 65 Mechanical Keyboard",
+          "sha256": "a7e04c8f71d85f83a7d7ca33958c998ababacec659447d75b17fe749c84e23da"
+        }
+      ]
+    },
+    {
+      "name": "Neo Code 75",
+      "vendorId": 14000,
+      "productId": 12621,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo_75_Prebuilt.JSON?v=1778238784",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo Code 75",
+          "sha256": "fb978d7fab66d2478a1820602801dde99d5f248f48dade39e8b7a0c4d8292a79"
+        }
+      ]
+    },
+    {
+      "name": "Neo 75",
+      "vendorId": 20037,
+      "productId": 20085,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/NEO75_1.JSON?v=1770825529",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO75",
+          "sha256": "d888659c23d4979e084c32f8cace6bb7a5d95ea58e3c891ea3f7f4a4e13270a3"
+        }
+      ]
+    },
+    {
+      "name": "Neo 65CU WIRED",
+      "vendorId": 20037,
+      "productId": 17237,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo65_Cu_wired.json?v=1737780787",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Neo65_Cu_wired.json",
+          "name": "NEO65CU WIRED",
+          "sha256": "9b3da7bbae6989d380c774bd8053c8bc205c641f75625aea0308220d94a5c254"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo65_Core_Plus_wired.json?v=1784273569",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo65 Core Plus Wired",
+          "sha256": "79a72e5278cf8ca31140d433ba9e64c58df9d5b6338fcb7222a733f9f47bcae1"
+        }
+      ]
+    },
+    {
+      "name": "Neo Code 75",
+      "vendorId": 14000,
+      "productId": 12564,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo__75__ansi_1.JSON?v=1770825790",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo Code 75",
+          "sha256": "b764bb2e990a905f91fa50440c659115dbfad24424829b2ad69299d354f85c1b"
+        }
+      ]
+    },
+    {
+      "name": "Neo 65Cu",
+      "vendorId": 14000,
+      "productId": 12384,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo65Cu_trimode.JSON?v=1737780787",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Neo65Cu_trimode.JSON",
+          "name": "Neo 65Cu",
+          "sha256": "cf51a178da83992e357693705d635d996a8d368dcf17eb0b8b0f47e9b4031c87"
+        }
+      ]
+    },
+    {
+      "name": "Neo Code 75",
+      "vendorId": 14000,
+      "productId": 12567,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo__75__iso_1.JSON?v=1770825858",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo Code 75",
+          "sha256": "351a4a5bccd6a45b27074dc544b4a76ca701564dca92d82c3b9d407bc3e02fdb"
+        }
+      ]
+    },
+    {
+      "name": "Neo Code 98 [Neo__98-_ISO_1]",
+      "vendorId": 14000,
+      "productId": 12566,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo__98-_ISO_1.JSON?v=1770825985",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Neo__98-_ISO_1.JSON",
+          "name": "Neo Code 98",
+          "sha256": "e9b7eea4b7d65c775cc23f8f0c0254b11ba8b49db857ffd68d8677963f0ad5b8"
+        }
+      ]
+    },
+    {
+      "name": "Neo Code 98",
+      "vendorId": 14000,
+      "productId": 12623,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo_98_Prebuilt.JSON?v=1778238798",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo Code 98",
+          "sha256": "faa44e436d3d678c2f57f8890a42609e674a7e835f1255d3ef5b377494da2d66"
+        }
+      ]
+    },
+    {
+      "name": "Neo 98",
+      "vendorId": 20037,
+      "productId": 20120,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/NEO98_1.JSON?v=1770825964",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO98",
+          "sha256": "b15678898060c648bbee53dca941ac166ef3c15acb0e62108431155bbbddedcf"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80 Cu (Solder)",
+      "vendorId": 20037,
+      "productId": 14384,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo80_Cu_solder.json?v=1757663081",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Neo80_Cu_solder.json",
+          "name": "NEO80 Cu",
+          "sha256": "45e84446115c960d5a11c6f33d208356d0d1b3036e47b50f8303140db31b65f3"
+        }
+      ]
+    },
+    {
+      "name": "Neo Code 98",
+      "vendorId": 14000,
+      "productId": 12566,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo_98-_ANSI_1.JSON?v=1770825975",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo Code 98",
+          "sha256": "802cdcbb3c6667a106818e1ef7cb0c5924c6b470e8965da6c412b069d35fd7fa"
+        }
+      ]
+    },
+    {
+      "name": "Neo 65 ANSI",
+      "vendorId": 20037,
+      "productId": 13877,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo65_ansi._v3.json?v=1695030278",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO65 ANSI",
+          "sha256": "892fab926a617543861e8e1275db36fa1730c8e7b057c65f1565e6cde698d133"
+        }
+      ]
+    },
+    {
+      "name": "Neo 65 Solder",
+      "vendorId": 20037,
+      "productId": 13907,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo65_solder_v3.json?v=1695371198",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO65 Solder",
+          "sha256": "efc401f745a7c6c1cdb96cac826958ecfa0aeeb50ffd2213e9706f295c319d57"
+        }
+      ]
+    },
+    {
+      "name": "Neo 65",
+      "vendorId": 65534,
+      "productId": 21,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/NEO65_0816.json",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO65",
+          "sha256": "37422bdbf521b07b4f97f1e6b38777d236c211e1ec3a09f0e31c98e6c820ccb6"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix zoom65 (Wired)",
+      "vendorId": 32876,
+      "productId": 5,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://drive.google.com/uc?export=download&id=1ycIIKWwLAa21CcDZYTd2ycgS93SWR0sx",
+          "page": "https://meletrix.com/pages/zoom65-user-manual",
+          "label": "ZOOM65 WIRED.json Unknown",
+          "name": "zoom65",
+          "sha256": "879562d2e47c8fa4c83986b636c6e8f988c9dcf9fe27f70678c60f75fd151b87"
+        }
+      ]
+    },
+    {
+      "name": "Neo 70 Wired PCB",
+      "vendorId": 20037,
+      "productId": 14128,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo70_wired_a2237010-29c8-4bc6-8a36-ad16b5aacd07.zip?v=1711355725",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "neo70 wired/neo70_ansi_v3.json",
+          "name": "NEO70 Wired PCB",
+          "sha256": "f2f3f5aed4dd45b9e9a9b55c319d2953847f76a65757b5e82167a954807a9247"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo70_ansi_v3.json?v=1711355838",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO70 Wired PCB",
+          "sha256": "f2f3f5aed4dd45b9e9a9b55c319d2953847f76a65757b5e82167a954807a9247"
+        }
+      ]
+    },
+    {
+      "name": "Neo 70",
+      "vendorId": 65534,
+      "productId": 26,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo70_via_v1_03_20231130.json?v=1701422858",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO70",
+          "sha256": "f03ad58affb97129b829dfa904e4def42c6e24ff5b2c45e98f736d9282fefd7f"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80 Wired PCB",
+      "vendorId": 20037,
+      "productId": 14384,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo80_wired_v3.json?v=1704792029",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO80 Wired PCB",
+          "sha256": "871a8b92a845686cd849359ecc9fb48dbaaf9d4ca712cc5c2dcbe71033379083"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo80_firmware_update_tool.zip?v=1713511892",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "neo80 firmware update tool/neo80_wired_v3.json",
+          "name": "NEO80 Wired PCB",
+          "sha256": "871a8b92a845686cd849359ecc9fb48dbaaf9d4ca712cc5c2dcbe71033379083"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80",
+      "vendorId": 65534,
+      "productId": 54,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo80_wireless.json?v=1704792029",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO80",
+          "sha256": "471cddaf2c1c92250e4844d96ae199cbb1d13bd4a765e472a986200be97cefec"
+        }
+      ]
+    },
+    {
+      "name": "Neo ERGO WIRED",
+      "vendorId": 20037,
+      "productId": 17746,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo_ergo_v3.json?v=1732093610",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO ERGO WIRED",
+          "sha256": "b8de18665f5ccb58c182d2f3ef7f999312745c22b5c2b9839fec778c9ad77d26"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo_ergo_wired.json?v=1714191774",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "neo_ergo_wired.json",
+          "name": "NEO ERGO WIRED",
+          "sha256": "b8de18665f5ccb58c182d2f3ef7f999312745c22b5c2b9839fec778c9ad77d26"
+        }
+      ]
+    },
+    {
+      "name": "Neo Ergo",
+      "vendorId": 65534,
+      "productId": 75,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/ergo-trimode.json?v=1719801910",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo Ergo",
+          "sha256": "15cb413a9cc0498245faa7b3cf9a8b2c37b503e2e0c3ce2c03ef1080c5bb9358"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo_ergo_via_v1_00_202406.json?v=1719662185",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "neo_ergo_via_v1_00_202406.json",
+          "name": "Neo Ergo",
+          "sha256": "15cb413a9cc0498245faa7b3cf9a8b2c37b503e2e0c3ce2c03ef1080c5bb9358"
+        }
+      ]
+    },
+    {
+      "name": "Neo 75 Wired PCB",
+      "vendorId": 20037,
+      "productId": 14133,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/neo75-wired.json?v=1728357106",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO75 Wired PCB",
+          "sha256": "2b2f4b3106b9264157cb5233dac9bffef0ab8aa62a4eb22a473aaaaca737ad72"
+        }
+      ]
+    },
+    {
+      "name": "Neo 75",
+      "vendorId": 14000,
+      "productId": 12321,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo75.JSON?v=1738163636",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO75",
+          "sha256": "196ae4648edf1de5cd8271c0e86fbd1cc0a1ba6b0d6c21c9e33e1629432e8e98"
+        }
+      ]
+    },
+    {
+      "name": "Neo 60",
+      "vendorId": 20037,
+      "productId": 13872,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo60Cu_wired.json?v=1737780787",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO60",
+          "sha256": "11747e4499db01d88b4b6605dbed775d449790032c3b7156e3fcdb398ada96a9"
+        }
+      ]
+    },
+    {
+      "name": "Neo 60",
+      "vendorId": 14000,
+      "productId": 12380,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo60Cu_trimode.JSON?v=1737780787",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo60",
+          "sha256": "708aa36a1a0c28842fff45904758e33a3d875e542e8ec5d1f9dd9dfe88d422dd"
+        }
+      ]
+    },
+    {
+      "name": "Neo 65 Core Plus",
+      "vendorId": 14000,
+      "productId": 12475,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo65_Core_Plus.JSON?v=1784100712",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo65 Core Plus",
+          "sha256": "d3f2c513f55584ee8c2c30ad41677223483a637a1d0f8aecd9e7eec6925f9c92"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80 Cu",
+      "vendorId": 20037,
+      "productId": 14384,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo80_Cu_wierd_ansi.json?v=1757662952",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "NEO80 Cu",
+          "sha256": "b8680a009dd8d92fedc38116b7ef6c4c5ab2cb293dc713e4c02e99b5f6f5114a"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80 Cu",
+      "vendorId": 14000,
+      "productId": 12504,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo80_Cu_tri-mode_iso.JSON?v=1757663081",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo80 Cu",
+          "sha256": "aa3444cb1441494b646d5700959289514c6e36f8acacd8c1777add8f6939dbcb"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80 Cu",
+      "vendorId": 14000,
+      "productId": 12482,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo80_Cu_ansi.JSON?v=1763623928",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Neo80 Cu",
+          "sha256": "3b47037834e2282fd49dd504ae29958b049222b8a9762350a3b0f2ed1273013e"
+        }
+      ]
+    },
+    {
+      "name": "Neo 80 Cu",
+      "vendorId": 14000,
+      "productId": 12502,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/Neo80_Cu_tri-mode_ansi.JSON?v=1757663081",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Neo80_Cu_tri-mode_ansi.JSON",
+          "name": "Neo80 Cu",
+          "sha256": "cd596101e22f26455fbdb44200574ef2571f315ec43f59419c47edf3ce7d39f3"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys QK65V2 Classic",
+      "vendorId": 65534,
+      "productId": 64,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/65kc_via_v1_00_20240221.json?v=1710143882",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "QK65V2 Classic",
+          "sha256": "93db897b8e27c1256fef0fc516ec7acb72ac37c2d5834ea47ba1b7cfcac3758a"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix zoom65 wireless rgb",
+      "vendorId": 7847,
+      "productId": 52411,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1jhG05LnxXQL_eGLs7tjD8uEZ7SpAISHJ",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "VIA .json",
+          "name": "zoom65 wireless rgb",
+          "sha256": "b93b098490999c8312b0846f5eeb8f56f82e9aa5462a01e24ea6e322768f0107"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk100 ansi [V2]",
+      "vendorId": 20307,
+      "productId": 12336,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk100_ansi_43e766ad-3b4f-4b9f-8ce0-8cd8396e2d75.json?v=1725446050",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "V2",
+          "name": "qk100 ansi",
+          "sha256": "dc519a275d4ab49c8cf74471e05408fcf774d95d62c4d4302b316d7461334d9d"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk100 ansi",
+      "vendorId": 20307,
+      "productId": 12336,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk100_ansi_v3_7a2b395c-04c8-499e-81f5-6385d92a8795.json?v=1725444056",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "V3",
+          "name": "qk100 ansi",
+          "sha256": "cfd46f4332ebd216d2a148de0b9b95a8c7754f282cec353c83fa8b6ca971fcc6"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk100 Solder [V2]",
+      "vendorId": 20307,
+      "productId": 12371,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk100_solder_6288075f-2737-4d85-9935-33a8780fad26.json?v=1725446049",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "V2",
+          "name": "qk100 Solder",
+          "sha256": "88ed18ad8ae0d626d299652d6064cb4cb3d986147bc69008414e24571e1fa5e4"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk100 Solder",
+      "vendorId": 20307,
+      "productId": 12371,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk100_solder_v3_1b64826c-95ba-4ae1-815f-2f4e42d010fe.json?v=1725444056",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "V3",
+          "name": "qk100 Solder",
+          "sha256": "f5723fc79d10e0ea6f9a643163f8fc9aad13c99d4cbe904126b929c8c339c1fd"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk60",
+      "vendorId": 20307,
+      "productId": 13872,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk60.json",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "qk60",
+          "sha256": "7ce2d14783fda6a19c348ba45722a3bab6af0b54792a659d8cd95c961b4358ab"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys QK65 ISO",
+      "vendorId": 20307,
+      "productId": 20809,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/QK65_ISO.json?v=1684417626",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "ISO - JSON",
+          "name": "QK65 ISO",
+          "sha256": "0e0de748130cfca6d881303fb16350c6572c39b7d31531fc54b91112c12ac068"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix 87 TKL",
+      "vendorId": 7847,
+      "productId": 52615,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://drive.google.com/uc?export=download&id=1SrPeVB47u0xtFCNgnchkX3QfkjwBvmus",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "VIA .json",
+          "name": "87 TKL",
+          "sha256": "049aa5ffb688b419fe9a68a9d5dd425819612a0f2e84c6888039cc86f98f740c"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix zoom65 wireless",
+      "vendorId": 7847,
+      "productId": 30583,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://drive.google.com/uc?export=download&id=19RLKv-1HUxlbYw16CQP-da7KB9w-wXJR",
+          "page": "https://meletrix.com/pages/zoom65-user-manual",
+          "label": "zoom65wireless-via.json Unknown",
+          "name": "zoom65 wireless",
+          "sha256": "ccbdf2cf5cacea0f924cb7a62d71238b3dd381718b994a5d9651846fcc26a05c"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk75 ANSI",
+      "vendorId": 20307,
+      "productId": 14145,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk75_ansi_v3.json?v=1732095513",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "ANSI - JSON",
+          "name": "qk75 ANSI",
+          "sha256": "c9b0a0e36c7482fe65c532622f7387cd394aaf97ef5c1bd0ee762e22b4df13e2"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM PAD",
+      "vendorId": 7847,
+      "productId": 52119,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0238/7342/1376/files/zoompad-tri-mode-regular.json?v=1705704738",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "Tri-mode regular VIA .json",
+          "name": "ZOOM PAD",
+          "sha256": "e39504c11ecc29703cb715fcd6bda77578ba9789237b989e98d9e7ea2c2afa6f"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk75 solder",
+      "vendorId": 20307,
+      "productId": 14133,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk75_solder_v3.json?v=1732095516",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Solder - JSON",
+          "name": "qk75 solder",
+          "sha256": "731bac56d836d571ef0bebb4f13bbd4f490f289cf8bffaf9adeef0ef5046b1da"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM LPAD (Southpaw)",
+      "vendorId": 7847,
+      "productId": 52128,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0238/7342/1376/files/zoompad-tri-mode-southpaw.json?v=1705704738",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "Tri-mode southpaw VIA .json",
+          "name": "ZOOM LPAD",
+          "sha256": "ecac61ce93790ea8d337234643b796667fb046b96310e738dd4213518699c505"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk80 ANSI",
+      "vendorId": 20307,
+      "productId": 14384,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk80_ansi.json?v=1682263139",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "ANSI - JSON",
+          "name": "qk80 ANSI",
+          "sha256": "611e7843f0367dbfe5c7427d974bef2ae9029f14b4cfbd87872a57af12976d9b"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix zoompad (Wired)",
+      "vendorId": 37227,
+      "productId": 8,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0238/7342/1376/files/zoompad-wired.json?v=1705704738",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "Wired VIA .json",
+          "name": "zoompad",
+          "sha256": "058b008d8529db9af70fce830ec2cb94c41eb3ed60b498809029aaf62d072beb"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys qk80 Solder",
+      "vendorId": 20307,
+      "productId": 14419,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/qk80_solder.json?v=1682263139",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Solder - JSON",
+          "name": "qk80 Solder",
+          "sha256": "3f3fe1d95463029b424748a2661c2065a1a18a00bf8c455f76816ba56845ced9"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix Zoom 98 (Wired)",
+      "vendorId": 14005,
+      "productId": 10198,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0238/7342/1376/files/zoom98.json?v=1712761159",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "Wired VIA .json",
+          "name": "Zoom 98",
+          "sha256": "c2194b44757fbdd14e23d2fafb74c4031fe5b72ff4e84cd80c32f0b609548452"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys Cub65 ANSI",
+      "vendorId": 21826,
+      "productId": 13877,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/cub65_ansi.json?v=1682263125",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "ANSI - JSON",
+          "name": "Cub65 ANSI",
+          "sha256": "f1125475e3d7116afbdc97d1b8587d067dbba4273b6f6e7d6a87e46eaaa27bef"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix ZOOM 98",
+      "vendorId": 7847,
+      "productId": 52584,
+      "sources": [
+        {
+          "brand": "Meletrix / Wuque Studio",
+          "url": "https://cdn.shopify.com/s/files/1/0238/7342/1376/files/ZOOM_98-VIA-V3.json?v=1712761159",
+          "page": "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+          "label": "Wireless VIA .json",
+          "name": "ZOOM 98",
+          "sha256": "3b349971632b887c1f5164753906a3f800a4e9207015a44d03d4973ca84b425a"
+        }
+      ]
+    },
+    {
+      "name": "Qwertykeys Cub65 ISO",
+      "vendorId": 21826,
+      "productId": 13897,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/cub65_iso.json?v=1682263125",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "ISO - JSON",
+          "name": "Cub65 ISO",
+          "sha256": "1fe90e5856272098c7acab1c05bf2d753295028ab5dde2d09ad5ec705b24a371"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Vento80 625U",
+      "vendorId": 20307,
+      "productId": 20534,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/vento80_625u.json?v=1709265393",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Vento80 625U",
+          "sha256": "713aa0f98668c58c175719a48a40c28b9bd5c1764cebf1072d21fad9b09374fa"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Vento80 7U",
+      "vendorId": 20307,
+      "productId": 20535,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/vento80_7u.json?v=1709265393",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Vento80 7U",
+          "sha256": "c119f6ed492465e6b6a337a5405d7c25806ec09b27ae4d1b2c61ab8f232ea6eb"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Vento80 Solder",
+      "vendorId": 20307,
+      "productId": 20559,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/vento80_solder.json?v=1709265393",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Vento80 Solder",
+          "sha256": "59adfc2d014b7b28a5c80da11165d2e18c722dc75e1d6d551dc2947d378b999a"
+        }
+      ]
+    },
+    {
+      "name": "Meletrix zoom65 wireless",
+      "vendorId": 7847,
+      "productId": 52325,
+      "sources": [
+        {
+          "brand": "Meletrix",
+          "url": "https://drive.google.com/uc?export=download&id=1MS-RgOsunhccpvD4EpNE7HVmSo1Z2fQ7",
+          "page": "https://meletrix.com/pages/zoom65-user-manual",
+          "label": "zoom65wireless-via.json Unknown",
+          "name": "zoom65 wireless",
+          "sha256": "e9f5e566776a087609aa54863eb4a2246599611c8c9c728a26f77e8d940b2431"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Jelly Evolv Hotswap_6.25U",
+      "vendorId": 20307,
+      "productId": 13909,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/625_2.zip?v=1708766658",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "jelly_evolv_hotswap_625U.json",
+          "name": "Jelly Evolv Hotswap_6.25U",
+          "sha256": "e13c94330a28b0adb28e7485966b3ab4304023e858dfd3d268cfa91918772029"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/jelly_evolv_hotswap_625U.json",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Jelly Evolv Hotswap_6.25U",
+          "sha256": "e13c94330a28b0adb28e7485966b3ab4304023e858dfd3d268cfa91918772029"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Jelly Evolv Hotswap_7U",
+      "vendorId": 20307,
+      "productId": 14165,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/7u.zip?v=1708766659",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "jelly_evolv_hotswap_7U.json",
+          "name": "Jelly Evolv Hotswap_7U",
+          "sha256": "f104503ad90c663e5342f4ff8e6a13b98329032f5684c39560589603e1521d55"
+        },
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/jelly_evolv_hotswap_7U.json",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Jelly Evolv Hotswap_7U",
+          "sha256": "f104503ad90c663e5342f4ff8e6a13b98329032f5684c39560589603e1521d55"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Jelly Evolv solder",
+      "vendorId": 20307,
+      "productId": 19030,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/solder_624c3775-4595-4ca8-a392-df81e4adcd3b.zip?v=1708766658",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "jelly_evolv_solder.json",
+          "name": "Jelly Evolv solder",
+          "sha256": "fa7ab5f3c0cadc1c8117bd9d40d8c264d4261fc367c89829cd2554ad6084e691"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Jelly Epoch (Hotswap)",
+      "vendorId": 20307,
+      "productId": 19020,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/viainfo_jelly_hotswap.JSON?v=1682340008",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Hotswap - JSON",
+          "name": "jelly",
+          "sha256": "8d3c57365395d138eb719919523b9c26efb5a857e137d6c9e8697c58f16f6073"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Jelly Epoch (Solder)",
+      "vendorId": 20307,
+      "productId": 19027,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/viainfo_jelly_solder_fixed.JSON?v=1682340008",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "Solder - JSON",
+          "name": "jelly",
+          "sha256": "fabc66dde9aff047550cb09c1e6289213f48861855b8065c99558fddfa3ae626"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Mr. Suit ANSI",
+      "vendorId": 20307,
+      "productId": 21333,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/suit80_ansi.json?v=1729665948",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Suit 80 ANSI",
+          "sha256": "3910295b647d0f959231e399972fce42f9db5d963ed4177c64bf543fe91a495c"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Spring",
+      "vendorId": 20307,
+      "productId": 21328,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/spring.json?v=1682343966",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Spring",
+          "sha256": "1c6f16b754df2b236e69068868315137679d87a6da4aa7ae1fca43992b35e40b"
+        }
+      ]
+    },
+    {
+      "name": "Owlab LINK Hotswap",
+      "vendorId": 20307,
+      "productId": 19529,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/link65_hotswap_v3.json",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "V3 JSON",
+          "name": "LINK Hotswap",
+          "sha256": "96e984bffa095adf65d893a66ba2ea8877e62c134975e69e87d97b85c70ddd65"
+        }
+      ]
+    },
+    {
+      "name": "Owlab LINK Solder",
+      "vendorId": 20307,
+      "productId": 19539,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/LINK_solder.json",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "V2 JSON",
+          "name": "LINK Solder",
+          "sha256": "feb57f9a404f1e39c93dc12d95db2113c0db88fb6417181be9ef874a191c46cd"
+        }
+      ]
+    },
+    {
+      "name": "Owlab Chalice Hotswap",
+      "vendorId": 20307,
+      "productId": 17224,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/chalice_hotswap.json?v=1764038383",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Chalice Hotswap",
+          "sha256": "b1c513667eb540e51e0c3d31a20b8539299e076025488fb2abbfb7853da91b48"
+        }
+      ]
+    },
+    {
+      "name": "Percent Studio Volt R2",
+      "vendorId": 33025,
+      "productId": 8965,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/volt_r2_VIA.json?v=1726037102",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "Volt R2",
+          "sha256": "1334c1856d20157d6f21fff6ac6673b9f3fd2252a93aebe7687481209d8dc432"
+        }
+      ]
+    },
+    {
+      "name": "Percent Studio VoltPad",
+      "vendorId": 33025,
+      "productId": 9217,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/volt_pad_VIA.json?v=1735616216",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "VoltPad",
+          "sha256": "6ac1eed114371c52629c2701f85b44c994d6cfed54e849858c8ceb31e71dfefc"
+        }
+      ]
+    },
+    {
+      "name": "Percent Studio PT75",
+      "vendorId": 33025,
+      "productId": 9218,
+      "sources": [
+        {
+          "brand": "Qwertykeys / Owlab",
+          "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/pt75.json?v=1737705850",
+          "page": "https://www.qwertykeys.com/pages/fw",
+          "label": "JSON",
+          "name": "PT75",
+          "sha256": "c89dc50ecafe01b609f963d095dbd6d8e19aeb8c0a2aa569cdfea3be30ae4325"
+        }
+      ]
+    },
+    {
+      "name": "Createkeebs Glacier80 (Hotswap / Solder)",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Createkeebs",
+          "url": "https://drive.google.com/uc?export=download&id=1yGsgCSfzXpQb8z83CVQDdRI2TPMHCOxK",
+          "page": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+          "label": "CK80_via3.json Unknown",
+          "name": "CK80-via",
+          "sha256": "2ef950af307ada58b6cb9da5991d8a4b117398f007365f1c1423c4d3692ac64f"
+        }
+      ]
+    },
+    {
+      "name": "Createkeebs Thera75",
+      "vendorId": 65261,
+      "productId": 24672,
+      "sources": [
+        {
+          "brand": "Createkeebs",
+          "url": "https://drive.google.com/uc?export=download&id=14fWZ_XF_PWgUE9yPzZa026PlBh7v_aDE",
+          "page": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+          "label": "thera-via.json Unknown",
+          "name": "thera-via",
+          "sha256": "0dff850176c3ec8cdc73caf1c7b1e9b7e7ed083c9585505f7b48cc094287f1af"
+        }
+      ]
+    }
+  ],
+  "unavailable": [
+    {
+      "brand": "Createkeebs",
+      "url": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "brand": "Wuque Studio",
+      "url": "https://cdn.shopify.com/s/files/1/0607/2474/0287/files/DFU2.5.zip?v=1742278411",
+      "page": "https://shop.wuquestudio.com/pages/firmwares",
+      "label": "DFU",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "brand": "Qwertykeys / Owlab",
+      "url": "https://cdn.shopify.com/s/files/1/0508/8716/4061/files/ansi_19b660ac-0d53-41dd-a327-3cfb7c597fbc.zip?v=1725442933",
+      "page": "https://www.qwertykeys.com/pages/fw",
+      "label": "ansi_19b660ac-0d53-41dd-a327-3cfb7c597fbc.zip",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "brand": "Qwertykeys / Owlab",
+      "url": "https://www.qwertykeys.com/pages/%20https://cdn.shopify.com/s/files/1/0508/8716/4061/files/jelly_evolv_solder.json",
+      "page": "https://www.qwertykeys.com/pages/fw",
+      "label": "JSON",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "brand": "Createkeebs",
+      "url": "https://drive.google.com/drive/folders/1wMzL9lPKHam9UAqgEnZieB4jR_zcjNU8",
+      "page": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "brand": "Createkeebs",
+      "url": "https://drive.google.com/drive/folders/1-2UKGoVQ1fpqto_VNkC6JDYKGuQCQFVs",
+      "page": "https://createkeebs.com/blogs/news/keyboard-firmware-download",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ],
+  "scannedPages": [
+    "https://shop.wuquestudio.com/products/ikki68-aurora-r2",
+    "https://windstudio.store/pages/wind-x80-classic-software-guide",
+    "https://windstudio.store/pages/wind-x80-software-guide",
+    "https://shop.wuquestudio.com/pages/user-manual",
+    "https://shop.wuquestudio.com/products/gb-soonmammoth75",
+    "https://windstudio.store/pages/download",
+    "https://www.nizkeyboard.com/pages/firmware-upgrade",
+    "https://meletrix.com/pages/firmwares",
+    "https://epomaker.com/blogs/via-json/epomaker-createkeebs-high65-v2-json-file",
+    "https://www.luminkey.com/pages/user-guide",
+    "https://shop.wuquestudio.com/pages/firmwares",
+    "https://cannonkeys.com/pages/wuque-and-meletrix-product-guide",
+    "https://meletrix.com/pages/zoom65-user-manual",
+    "https://www.qwertykeys.com/pages/fw"
+  ]
+}

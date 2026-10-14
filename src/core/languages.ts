@@ -1,0 +1,131 @@
+import { byValue } from "./keycodes";
+
+export const languages = [
+  ["en-US", "English (US)"],
+  ["en-GB", "English (UK)"],
+  ["de", "Deutsch"],
+  ["hu", "Magyar"],
+  ["fr", "Français"],
+  ["es", "Español"],
+  ["it", "Italiano"],
+  ["sv", "Svenska"],
+] as const;
+export type LegendLanguage = (typeof languages)[number][0];
+// Unshifted legends for standard PC host layouts. HID usages stay unchanged.
+const overrides: Record<string, Record<number, string>> = {
+  "en-US": { 50: "\\", 100: "\\" },
+  "en-GB": { 49: "#", 50: "#", 100: "\\" },
+  de: {
+    28: "Z",
+    29: "Y",
+    45: "ß",
+    46: "´",
+    47: "Ü",
+    48: "+",
+    49: "#",
+    50: "#",
+    51: "Ö",
+    52: "Ä",
+    53: "^",
+    56: "−",
+    100: "<",
+  },
+  hu: {
+    28: "Z",
+    29: "Y",
+    39: "Ö",
+    45: "Ü",
+    46: "Ó",
+    47: "Ő",
+    48: "Ú",
+    49: "Ű",
+    50: "Ű",
+    51: "É",
+    52: "Á",
+    53: "0",
+    56: "−",
+    100: "Í",
+  },
+  fr: {
+    4: "Q",
+    16: ",",
+    20: "A",
+    26: "Z",
+    29: "W",
+    30: "&",
+    31: "é",
+    32: '"',
+    33: "'",
+    34: "(",
+    35: "−",
+    36: "è",
+    37: "_",
+    38: "ç",
+    39: "à",
+    45: ")",
+    46: "=",
+    47: "^",
+    48: "$",
+    49: "*",
+    50: "*",
+    51: "M",
+    52: "ù",
+    53: "²",
+    54: ";",
+    55: ":",
+    56: "!",
+    100: "<",
+  },
+  es: {
+    45: "'",
+    46: "¡",
+    47: "`",
+    48: "+",
+    49: "Ç",
+    50: "Ç",
+    51: "Ñ",
+    52: "´",
+    53: "º",
+    56: "−",
+    100: "<",
+  },
+  it: {
+    45: "'",
+    46: "ì",
+    47: "è",
+    48: "+",
+    49: "ù",
+    50: "ù",
+    51: "ò",
+    52: "à",
+    53: "\\",
+    56: "−",
+    100: "<",
+  },
+  sv: {
+    45: "+",
+    46: "´",
+    47: "Å",
+    48: "¨",
+    49: "'",
+    50: "'",
+    51: "Ö",
+    52: "Ä",
+    53: "§",
+    56: "−",
+    100: "<",
+  },
+};
+export function localizedLegend(
+  value: number,
+  language: LegendLanguage,
+): string | undefined {
+  return overrides[language]?.[value];
+}
+export function hostCodeFor(value: number): string | undefined {
+  // Non-US # shares the Backslash position in KeyboardEvent.code.
+  if (value === 50) return "Backslash";
+  // Modified basic keys and tap-hold bindings emit their basic usage on tap.
+  if (value >= 0x100 && value <= 0x4fff) value &= 0xff;
+  return value === 50 ? "Backslash" : byValue.get(value)?.code;
+}

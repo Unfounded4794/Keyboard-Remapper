@@ -1,0 +1,5 @@
+VIA keyboard definitions
+Source: https://github.com/the-via/keyboards
+Snapshot: 9e3e9f4aa9f50f9439fdebc747560f51aaf109a0
+License: GPL-3.0 (see VIA-LICENSE.txt)
+Definitions are redistributed without changes to their geometry, matrix or layout options. Run scripts/bundle-definitions.mjs against the pinned source archive to regenerate the catalog.

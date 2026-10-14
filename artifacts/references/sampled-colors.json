@@ -1,0 +1,185 @@
+{
+  "awakens.jpg": {
+    "width": 800,
+    "height": 800,
+    "samples": [
+      "#4d585f",
+      "#505a63",
+      "#504049"
+    ]
+  },
+  "basin.webp": {
+    "width": 1080,
+    "height": 1080,
+    "samples": [
+      "#3d7095",
+      "#3c5777",
+      "#152235",
+      "#2f3b49",
+      "#2d3849",
+      "#253037",
+      "#15b39d"
+    ]
+  },
+  "black panther.webp": {
+    "width": 1080,
+    "height": 720,
+    "samples": [
+      "#342b53",
+      "#47484e",
+      "#4a4c4e"
+    ]
+  },
+  "deku.jpg": {
+    "width": 720,
+    "height": 511,
+    "samples": [
+      "#136f72",
+      "#566d5d",
+      "#8e1b1d"
+    ]
+  },
+  "donuts.jpg": {
+    "width": 1200,
+    "height": 1200,
+    "samples": [
+      "#594f44",
+      "#5f5042",
+      "#433d35"
+    ]
+  },
+  "fuji.webp": {
+    "width": 1946,
+    "height": 1946,
+    "samples": [
+      "#d1d9db",
+      "#5f6175",
+      "#b495a2"
+    ]
+  },
+  "gateway.webp": {
+    "width": 1800,
+    "height": 1125,
+    "samples": [
+      "#c8c8c8",
+      "#3b94cf",
+      "#cc5c11"
+    ]
+  },
+  "great wave.webp": {
+    "width": 1400,
+    "height": 788,
+    "samples": [
+      "#0b0c49",
+      "#294693",
+      "#284691",
+      "#578ea4",
+      "#abaaac"
+    ]
+  },
+  "half blade.webp": {
+    "width": 1920,
+    "height": 1920,
+    "samples": [
+      "#070c18",
+      "#000408",
+      "#272b32"
+    ]
+  },
+  "hammerhead.png": {
+    "width": 1280,
+    "height": 762,
+    "samples": [
+      "#000001",
+      "#303c50",
+      "#4fcbb7"
+    ]
+  },
+  "lazurite.png": {
+    "width": 1920,
+    "height": 1080,
+    "samples": [
+      "#124996",
+      "#ced1d5",
+      "#094492"
+    ]
+  },
+  "mecha 01.webp": {
+    "width": 1000,
+    "height": 1000,
+    "samples": [
+      "#140923",
+      "#242727",
+      "#3d9c29"
+    ]
+  },
+  "mictlan.webp": {
+    "width": 1100,
+    "height": 1100,
+    "samples": [
+      "#801f41",
+      "#5c3a1c",
+      "#cacdc6"
+    ]
+  },
+  "midnight rainbow.webp": {
+    "width": 1920,
+    "height": 1080,
+    "samples": [
+      "#030303"
+    ]
+  },
+  "red samurai.jpg": {
+    "width": 1205,
+    "height": 1205,
+    "samples": [
+      "#652f3c",
+      "#6c3938",
+      "#675e5f"
+    ]
+  },
+  "reforged.webp": {
+    "width": 1000,
+    "height": 563,
+    "samples": [
+      "#412313",
+      "#3d4348",
+      "#c2a593"
+    ]
+  },
+  "stone age.webp": {
+    "width": 700,
+    "height": 560,
+    "samples": [
+      "#cdccc7",
+      "#657d67",
+      "#d2d0cc"
+    ]
+  },
+  "wavez.webp": {
+    "width": 4000,
+    "height": 2250,
+    "samples": [
+      "#144248",
+      "#091b20"
+    ]
+  },
+  "hero.avif": {
+    "width": 800,
+    "height": 800,
+    "samples": [
+      "#153622",
+      "#4a4b52",
+      "#ab7f49"
+    ]
+  },
+  "mizu.avif": {
+    "width": 3162,
+    "height": 2000,
+    "samples": [
+      "#0a394f",
+      "#183b5e",
+      "#f6f6f6"
+    ]
+  }
+}
